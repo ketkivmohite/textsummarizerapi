@@ -34,8 +34,8 @@ The application provides:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/text-summarizer-api.git
-cd text-summarizer-api
+git clone https://github.com/ketkivmohite/textsummarizerapi.git
+cd textsummarizerapi
 ```
 
 2. Create a virtual environment:
@@ -132,8 +132,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
+Ketki Mohite
+- GitHub: [@ketkivmohite](https://github.com/ketkivmohite)
 
 ## 🙏 Acknowledgments
 
@@ -143,7 +143,14 @@ Your Name
 
 ## 📸 Screenshots
 
+### Main Interface
 ![Text Summarizer UI](screenshot.png)
+
+### Features Demo
+You can add more screenshots here:
+- `screenshot-input.png` - Input text example
+- `screenshot-summary.png` - Generated summary example
+- `screenshot-stats.png` - Statistics view
 
 ---
 

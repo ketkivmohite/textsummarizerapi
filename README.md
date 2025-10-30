@@ -2,6 +2,10 @@
 
 A beautiful web application that uses AI to transform long text into concise summaries. Built with Streamlit for the frontend and FastAPI for the backend, powered by Hugging Face's transformers library.
 
+## 🌐 Live Demo
+
+**[Try it now!](https://textsummarizerapi.streamlit.app)** 🚀
+
 ## ✨ Features
 
 - 🎨 Modern and intuitive user interface

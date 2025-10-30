@@ -146,12 +146,6 @@ Ketki Mohite
 ### Main Interface
 ![Text Summarizer UI](screenshot.png)
 
-### Features Demo
-You can add more screenshots here:
-- `screenshot-input.png` - Input text example
-- `screenshot-summary.png` - Generated summary example
-- `screenshot-stats.png` - Statistics view
-
 ---
 
 ⭐ If you found this project helpful, please give it a star!
